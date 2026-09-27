@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="blast">
+      <stop offset="0" stop-color="#ffe99a"/>
+      <stop offset="0.4" stop-color="#ff9f33"/>
+      <stop offset="1" stop-color="#78170c"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#blast)"/>
+  <polygon points="400,40 470,285 650,115 575,330 780,280 600,430 760,615 535,535 455,780 380,550 160,710 265,480 20,420 270,350 130,145 350,280" fill="#ffdf68" opacity="0.85"/>
+</svg>
